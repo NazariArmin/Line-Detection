@@ -1,3 +1,5 @@
 # Line-Detection
 
-first detect-edge image by sobel mask then implementation the hough transform .
+first detect edges image by sobel mask 
+
+uses the hough transform to detect line
